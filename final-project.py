@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title('Research of Second-hand Car price in India from 1998 to 2019')
+st.title('Research of Second-hand Car price in India from 1998 to 2019 ———— Lianxi Huang & Chenxi Shang')
 df = pd.read_csv('train-data.csv')
 
 
